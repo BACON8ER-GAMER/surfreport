@@ -1,1 +1,6 @@
+Surfreport
 
+A tool used to gather data of a beach regarding wind, temperature, surf height, and tide. This tool can 
+also provide a recommendation on whether the user should go surfing or not.
+
+GET surfreport/{beachId}
